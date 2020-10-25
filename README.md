@@ -1,0 +1,2 @@
+# music-player
+A music player project from online course, all musics are composed and provided by Jacinto Wong. Images are from unsplash.com. The code is modified for personal preference. And there is also another Javascript file performing the same task, but coded with class in mind as experiment.
